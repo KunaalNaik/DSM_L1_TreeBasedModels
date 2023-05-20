@@ -33,4 +33,10 @@
 - Completed Code Link : https://www.kaggle.com/code/funxexcel/completed-p5-dt-pre-post-pruning
 
 
+## Ensemble
+
+### Part 4 : Random Forest Classifier
+- In Class Code Link :  https://www.kaggle.com/funxexcel/in-class-p4-random-forest
+- Completed Code Link : https://www.kaggle.com/funxexcel/completed-p4-random-forest
+
 
